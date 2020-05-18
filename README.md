@@ -1,5 +1,5 @@
 # PA Virulence Prediction
-Scripts to perform machine learning analyses in “A Genome-based Model to Predict the Virulence of Pseudomonas aeruginosa Strains“
+Scripts to perform machine learning analyses in “A Genome-based Model to Predict the Virulence of Pseudomonas aeruginosa Isolates“
 
 ## Dependencies
 Analyses were performed in Python v3.6.9 with the following modules:  
