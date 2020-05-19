@@ -11,6 +11,9 @@ matplotlib v3.1.1
 ## Input Data
 Input data to run these analyses as performed in the manuscript is provided in the Data directory. The 10-mers feature set was compressed for size limitations and would need to be expanded before use.
 
+## Assemblies
+Hybrid assemblies for PABL012, PABL017, PAC1, and PAC6 used in this study are older versions than what has been deposited to NCBI. The versions used in this study are provided in the Assemblies directory.
+
 ## Running
 Paths for the input data (and required functions) need to be specified in each script.
 
